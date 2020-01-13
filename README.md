@@ -1,5 +1,5 @@
 # Youtube-Clicker-Game
-2017 Incremental Idle Game
+2017 Incremental Idle Game inspired by games like Cookie Clicker
 
 You decided to start a Youtube channel. Will you rise to the top?
 
